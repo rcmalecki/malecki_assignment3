@@ -5,8 +5,8 @@
   are used to respond to user interaction with the "Donate" button.
 */
 document.getElementById('BtnDonate').addEventListener('click', function() {
-	console.log("hello world")
   //Code in here executes when the user clicks the "Donate" button.
+  console.log('hello world');
 });
 
 
